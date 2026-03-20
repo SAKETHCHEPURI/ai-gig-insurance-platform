@@ -20,15 +20,6 @@ GigShield AI provides parametric insurance:
 * Event Simulation (Rain)
 * Automatic Claim Approval
 
-## ▶️ Run Project
-
-1. Clone repo
-2. Open frontend/index.html in browser
-
-## 🎥 Demo
-
-(Add your video link here)
-
 ## 📊 Flow
 
 1. Register
